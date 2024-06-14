@@ -1,0 +1,5 @@
+streamlit==1.33.0
+python-dotenv==1.0.0
+langdetect==1.0.9
+llama-index==0.1.4
+huggingface-hub==0.17.2
